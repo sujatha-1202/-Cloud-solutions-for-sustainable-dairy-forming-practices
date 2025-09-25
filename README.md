@@ -1,2 +1,7 @@
 # -Cloud-solutions-for-sustainable-dairy-forming-practices
-This project aims at developing dairy industry farming helping farmers to advance sustainable dairy farming  practices with advance and innovative technologies. In this system a cloud based data analytics platform will  help farmer in monitor and manage livestock more effectively. This system helps farmers in development .
+• Built a cloud platform using Python (Flask) and PostgreSQL for dairy farm data management
+• Implemented real-time monitoring & predictive analytics models for livestock health and milk yield.
+• Designed a user-friendly mobile application for farmers with alerts, notifications, and decision support tools. 
+
+
+
